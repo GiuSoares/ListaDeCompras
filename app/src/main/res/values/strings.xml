@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Lista de Compras</string>
-    <string name="nomeLista">Suas listas</string>
-    <string name="dicaCompras">Digite o nome da lista ... </string>
-
+    <string name="nomeLista"> Suas Listas</string>
+    <string name="dicaCompras">Criar nova lista...</string>
+    <string name="buttonText">Adicionar nova lista</string>
+    <string name="nomeNovaLista">Digite o nome da nova lista...</string>
 </resources>
